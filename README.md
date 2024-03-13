@@ -1,4 +1,4 @@
-# Swift-UI-RoundedRectangle-Corner-Radius
+# Swift-UI .clipShape(RoundedRectangle(cornerRadius: 15))
 SwiftUI custom button with RoundedRectangle Corner-Radius<br>
 ![Screenshot 2024-03-13 at 5 37 55 AM](https://github.com/danielurra/Swift-UI-RoundedRectangle-Corner-Radius/assets/51704179/19274fed-1ba8-45f1-b942-7f1a22b62144)<br>
 ## Animation
